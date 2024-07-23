@@ -1,0 +1,9 @@
+const MachineType = {
+    PELLETEUSE: 'PELLETEUSE',
+    TRACTOPELLE: 'TRACTOPELLE',
+    NACELLE: 'NACELLE',
+    BULLDOZER: 'BULLDOZER',
+    ROULEAU_COMPRESSEUR: 'ROULEAU_COMPRESSEUR'
+};
+
+export default MachineType;
